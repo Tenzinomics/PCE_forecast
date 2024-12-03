@@ -9,7 +9,7 @@ def pca_model(df_clean):
     df_scaled = scaler.fit_transform(df_clean)
 
     #Apply PCA 
-    pca = PCA(n_components=25) #The component has to be the number of series used.
+    pca = PCA(n_components=51) #The component has to be the number of series used.
     principal_components = pca.fit_transform(df_scaled)
 
     #Getting the eigen values 
