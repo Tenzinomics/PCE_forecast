@@ -3,7 +3,7 @@
 Principal Component Analysis (PCA) reduces the dimensionality of a dataset without losing much of the variation in the dataset.
 <br>
 <br>
-To forecast Personal Consumption Expenditures (PCE), I used nearly 80 leading economic data series. I applied PCA to decompose the dataset into eigenvectors and eigenvalues.
+To forecast Personal Consumption Expenditures (PCE), I used nearly 80 leading economic data series [see data_pce_lead.xlsx]. I applied PCA to decompose the dataset into eigenvectors and eigenvalues.
 <br>
  <br>
 ![image](https://github.com/user-attachments/assets/2cae9aca-5522-4422-97ea-da9f621c7ce1)
