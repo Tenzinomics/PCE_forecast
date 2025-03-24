@@ -1,4 +1,4 @@
-<h1>US PCE Forecast Using Principal Component Analysis</h1>
+<h1>US PCE Forecast Using PCA</h1>
 
 Principal Component Analysis (PCA) reduces the dimensionality of a dataset without losing much of the variation in the dataset.
 <br>
